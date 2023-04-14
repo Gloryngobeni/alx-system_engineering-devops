@@ -1,1 +1,2 @@
-burger
+#!/bin/bash
+touch hello
