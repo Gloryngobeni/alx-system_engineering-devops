@@ -1,1 +1,2 @@
-tobby
+#!/bin/bash
+chgrp school hello
