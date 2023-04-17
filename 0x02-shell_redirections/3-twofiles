@@ -1,1 +1,2 @@
-glory
+#!/bin/bash
+Head -3 iacta|tail- 1
